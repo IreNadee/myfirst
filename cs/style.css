@@ -1,0 +1,28 @@
+body {
+  background-image: linear-gradient(to right,#1722,#0088ff);
+ margin:auto;
+}
+.login{
+  margin: 275px 200px 200px 325px;
+  width: 40%;
+  height:75%;
+  border: none;
+  padding: 30px; 
+  background:#f8f8f8;
+	
+}
+.form-group{
+  padding: 10px; 
+	
+}
+.login h2{
+	text-align:center;
+	
+}
+.link{
+text-align:center;	
+}
+.login-form.btn.btn-primary.btn-lg.btn-block{
+	border: none;
+	
+}
